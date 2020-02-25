@@ -1,0 +1,147 @@
+In [2]:
+print ("                                       PRESENTASI KELOMPOK 7 (MEMORY)")
+print("")
+print("1. David Makasangkil")
+print("2. Neikarunia Mokolensang")
+print("3. Jovan Rompis")
+print("4. Nadillah Ahaya")
+print("5. Alvio Boki")
+print("6. Florencia Saselah")
+                                       PRESENTASI KELOMPOK 7 (MEMORY)
+
+1. David Makasangkil
+2. Neikarunia Mokolensang
+3. Jovan Rompis
+4. Nadillah Ahaya
+5. Alvio Boki
+6. Florencia Saselah
+In [3]:
+print("Memori adalah tempat penyimpanan data dalam komputer. Memory biasa disebut juga RAM (Random Access Memory). Memory berfungsi sebagai tempat penyimpanan data sementara. dan memory juga berfungsi untuk menyimpan dan menyuplai data - data yang dibutuhkan processor dengan cepat. berikut adalah macam - macam memory dalam dunia komputer")
+Memori adalah tempat penyimpanan data dalam komputer. Memory biasa disebut juga RAM (Random Access Memory). Memory berfungsi sebagai tempat penyimpanan data sementara. dan memory juga berfungsi untuk menyimpan dan menyuplai data - data yang dibutuhkan processor dengan cepat. berikut adalah macam - macam memory dalam dunia komputer
+In [16]:
+print ("1. RAM (Random Access Memory)")
+print("")
+print("RAM digunakan untuk menyimpan data sementara yang dapat diakses oleh processor saat diperlukan.")
+print ("cara berkerja RAM dapat dilakukan secara acak dan pengaksesan data oleh processor dilakukan secara acak")
+from IPython.display import Image
+Image(filename="ram.jpg", width=250, height= 250)
+1. RAM (Random Access Memory)
+
+RAM digunakan untuk menyimpan data sementara yang dapat diakses oleh processor saat diperlukan.
+cara berkerja RAM dapat dilakukan secara acak dan pengaksesan data oleh processor dilakukan secara acak
+Out[16]:
+
+In [17]:
+print ("2. ROM (Read Only Memory)")
+print("")
+print("ROM adalah media penyimpanan yang bersifat permanen dan tidak memungkinkan data didalamnya dapat dimodifikasi.")
+print("Pada komputer, ROM umumnya disebut sebagai BIOS atau ROM-BIOS")
+from IPython.display import Image
+Image(filename="rom.jpg", width=250, height= 250)
+2. ROM (Read Only Memory)
+
+ROM adalah media penyimpanan yang bersifat permanen dan tidak memungkinkan data didalamnya dapat dimodifikasi.
+Pada komputer, ROM umumnya disebut sebagai BIOS atau ROM-BIOS
+Out[17]:
+
+In [18]:
+print ("3. SRAM (Static Random Access Memory)")
+print("")
+print("SRAM merupakan jenis RAM yang menyimpan data didalamnya selama komputer masih menyala.")
+print("SRAM dirancang menggunakan transistor tanpa kapasitor yang membuat kemampuan SRAM lebih cepat daripada DRAM.")
+from IPython.display import Image
+Image(filename="sram.jpg", width=250, height= 250)
+3. SRAM (Static Random Access Memory)
+
+SRAM merupakan jenis RAM yang menyimpan data didalamnya selama komputer masih menyala.
+SRAM dirancang menggunakan transistor tanpa kapasitor yang membuat kemampuan SRAM lebih cepat daripada DRAM.
+Out[18]:
+
+In [19]:
+print ("4. DRAM (Dynamic Random Access Memory)")
+print("")
+print("DRAM merupakan jenis RAM yang banyak digunakan dalam komputer sebagai memori utama yang harus disegarkan")
+print("oleh CPU secara berkala agar data didalamnya tidak hilang.")
+from IPython.display import Image
+Image(filename="dram.jpg", width=250, height= 250)
+4. DRAM (Dynamic Random Access Memory)
+
+DRAM merupakan jenis RAM yang banyak digunakan dalam komputer sebagai memori utama yang harus disegarkan
+oleh CPU secara berkala agar data didalamnya tidak hilang.
+Out[19]:
+
+In [20]:
+print ("5. SDRAM ( Sychronous Dynamic Random Access Memory)")
+print("")
+print("SDRAM adalah jenis DRAM yang termasuk dalam kategori solid-state yang telah disinkronkan oleh")
+print("clock system dimana kecepatannya lebih tinggi dari DRAM")
+from IPython.display import Image
+Image(filename="sdram.jpg", width=250, height= 250)
+5. SDRAM ( Sychronous Dynamic Random Access Memory)
+
+SDRAM adalah jenis DRAM yang termasuk dalam kategori solid-state yang telah disinkronkan oleh
+clock system dimana kecepatannya lebih tinggi dari DRAM
+Out[20]:
+
+In [21]:
+print ("6. CMOS (Compmentary Metaoxyde Semiconductor)")
+print("")
+print("CMOS adalah seuah chip dari rangkaian terintegrasi yang digunakan di mikroprocessorm RAM statis, pengontrol mikro")
+print("CMOS merupakan bagian dari ROM. CMOS berisi pengaturan berbagai pengaturan dasar komputer seperti memuat sistem operasi.")
+from IPython.display import Image
+Image(filename="cmos.jpg", width=250, height= 250)
+6. CMOS (Compmentary Metaoxyde Semiconductor)
+
+CMOS adalah seuah chip dari rangkaian terintegrasi yang digunakan di mikroprocessorm RAM statis, pengontrol mikro
+CMOS merupakan bagian dari ROM. CMOS berisi pengaturan berbagai pengaturan dasar komputer seperti memuat sistem operasi.
+Out[21]:
+
+In [11]:
+print ("7. DIMM (Dual in-line Memory Module)")
+print("")
+print("DIMM terdiri dari serangkaian sirkuit terpadu DRAM. modul - modul tersebut dipasang pada papan sirkuit")
+print("dan di desain untuk digunakan pada komputer personal (PC),  server, dan workstation.")
+from IPython.display import Image
+Image(filename="dimm.jpg", width=250, height= 250)
+7. DIMM (Dual in-line Memory Module)
+
+DIMM terdiri dari serangkaian sirkuit terpadu DRAM. modul - modul tersebut dipasang pada papan sirkuit
+dan di desain untuk digunakan pada komputer personal (PC),  server, dan workstation.
+Out[11]:
+
+In [12]:
+print ("8. Cache Memory")
+print("")
+print("Cache Memory adalah memori yang berukuran kecil, bersifat sementara, dan berkecepatan tinggi yang digunakan")
+print("untuk menyimpan data ataupun instruksi yang sering diakses. Cache Memory menjembatani aliran data diantara")
+print("Processor dengan memori utama atau RAM yang biasanya berkecepatan rendah.")
+from IPython.display import Image
+Image(filename="chace.jpg", width=250, height= 250)
+8. Cache Memory
+
+Cache Memory adalah memori yang berukuran kecil, bersifat sementara, dan berkecepatan tinggi yang digunakan
+untuk menyimpan data ataupun instruksi yang sering diakses. Cache Memory menjembatani aliran data diantara
+Processor dengan memori utama atau RAM yang biasanya berkecepatan rendah.
+Out[12]:
+
+In [14]:
+print ("Memori juga memiliki beberapa karaktersitik. Berikut beberapa karakteristik dari memori internal :")
+print("")
+print("1. Lokasi Memori")
+print("2. Kapasitas Memori")
+print("3. Satuan Transfer")
+print("4. Metode Akses Memori")
+print("5. Kinerja Memori")
+print("6. Jenis Fisik Memori")
+print("7. Karakteristik Fisik Memori")
+print("8. Organisasi")
+Memori juga memiliki beberapa karaktersitik. Berikut beberapa karakteristik dari memori internal :
+
+1. Lokasi Memori
+2. Kapasitas Memori
+3. Satuan Transfer
+4. Metode Akses Memori
+5. Kinerja Memori
+6. Jenis Fisik Memori
+7. Karakteristik Fisik Memori
+8. Organisasi 
